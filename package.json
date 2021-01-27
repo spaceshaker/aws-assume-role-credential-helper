@@ -1,5 +1,5 @@
 {
-  "name": "aws-assume-role-credential-hepler",
+  "name": "aws-assume-role-credential-helper",
   "version": "0.0.1",
   "description": "A command-line utility for vending assume-role credentials for the AWS CLI v2",
   "keywords": [
